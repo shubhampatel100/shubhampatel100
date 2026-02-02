@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8562d0&size=35&center=true&vCenter=true&width=1200&lines=Welcome+to+my+GitHub+profile!;My+name+is+Garv+Patel;I'm+a+Developer+as+well+as+a+Student;Passionate+about+coding+and+learning+new+technologies.;Exploring+the+world+of+software+development.;Always+eager+to+collaborate+on+exciting+projects!)
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Garv Patel and I'm a Developer and I used <br>Black Arch linux.</h2>
+<h2 align="center">Hi 👋! I'm Garv Patel — exploring, breaking, and securing systems with BlackArch Linux.</h2>
 
 # 💫 About Me:
 🔭 I’m currently working on web & app development projects<br><br>👯 I’m looking to collaborate on open-source projects<br><br>🤝 I’m looking for help with advanced JavaScript<br><br>🌱 I’m currently learning cybersecurity<br><br>💬 Ask me about HTML, CSS, Python, JavaScript, React, and the basics of coding<br><br>⚡ Fun fact: I enjoy learning new tech every day
